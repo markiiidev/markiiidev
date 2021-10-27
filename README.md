@@ -1,5 +1,13 @@
-<h1 align="left">Hi 👋, I'm Mark Dhel</h1>
+# Hi, I'm Mark Dhel Villarama (:coffee::computer::bulb::heart:)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%232739F7&lines=Aspiring+Full+Stack+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
+
 <h5 align="left">Currently a 3rd year Information System Student at Dr.Filemon C. Aguilar Memorial IT Campus of Las Pinas City. I am in love with Web Development as it is a way for me to express myself, my talents, and my skills by creating applications that many people can benefit from.</h5>
+
+## 🎧 Spotify Playing
+
+[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markiiidev&label=Profile%20views&color=0e75b6&style=flat" alt="markiiidev" /> </p>
 
